@@ -1,0 +1,71 @@
+1. AI Chat App
+
+Features:
+
+Streaming
+Chat memory
+Markdown rendering
+2. AI PDF Summarizer
+
+Features:
+
+Upload PDF
+Extract text
+Summarize
+3. AI Content Generator
+
+Features:
+
+Blog generation
+Social media posts
+Tone customization
+
+
+
+
+
+
+Build RAG Projects
+
+
+1. PDF Question Answering App
+
+Upload PDFs and ask questions.
+
+2. Company Knowledgebase Bot
+
+Internal documentation chatbot.
+
+3. Multi-PDF Research Assistant
+
+Search across many documents.
+
+
+
+
+
+
+Build Agent Projects
+
+
+1. AI Travel Agent
+
+Can:
+
+Search hotels
+Search flights
+Plan itinerary
+2. AI Coding Assistant
+
+Can:
+
+Read code
+Explain bugs
+Generate fixes
+3. Research Agent
+
+Can:
+
+Search web
+Summarize
+Save notes

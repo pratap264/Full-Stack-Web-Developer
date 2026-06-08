@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Listing</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js" async></script>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <h2>ABC Store.com</h2>
+
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+
+        <div class="search-bar">
+            <form id="searchForm">
+                <input type="text" id="searchInput" placeholder="Search products..." />
+                <button type="submit">Search</button>
+            </form>
+
+
+            <select name="Filter" id="sort">
+                <option value="">sort by</option>
+                <option value="price-asc">Price: Low to High</option>
+                <option value="price-desc">Price: High to Low</option>
+                <option value="name-asc">Name: A to Z</option>
+                <option value="name-desc">Name: Z to A</option>
+            </select>
+        </div>
+    </header>
+
+    <main class="container">
+        <h2>Products</h2>
+        <div id="productGrid" class="products"></div>
+    </main>
+
+    <footer class="container">
+        <p>&copy; 2026 ABC Store.com All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
